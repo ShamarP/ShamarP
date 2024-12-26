@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <--
-**ShamarP/ShamarP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Currently 
 - Studying Combinatorics and Optimization With a computing minor at the University of Waterloo
