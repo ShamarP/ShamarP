@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<--
 **ShamarP/ShamarP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Currently 
@@ -9,6 +9,6 @@
 - Waterloo Warriors Integrated Support Team Member - Data Engineer
 - Data Engineering Intern At Shopify
 
-
+📫 How to reach me: slphilli@uwaterloo.ca
 
 
