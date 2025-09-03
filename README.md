@@ -2,7 +2,7 @@
 
 ## Previously 
 - Product Data Science Intern At Shopify
-- Data Engineer RBC Amplify
+- Data Engineer at RBC Amplify
 
 ## Currently 
 - Studying Combinatorics and Optimization With a computing minor at the University of Waterloo
